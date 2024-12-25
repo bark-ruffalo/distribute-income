@@ -1,0 +1,14 @@
+{
+  "name": "distribute-income",
+  "version": "1.0.0",
+  "description": "Scripts to calculate, normalize, and distribute income to stakers",
+  "main": "distributeIncome.js",
+  "scripts": {
+    "distribute": "node distributeIncome.js",
+    "stakers": "node getHighStakers.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^6.9.0"
+  }
+} 
