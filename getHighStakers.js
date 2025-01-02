@@ -30,6 +30,20 @@ const POOL_MODIFIERS = {
   0: 1.0,      // $PAWSY: no modifier
   1: 1.1,      // $mPAWSY: 10% bonus
   2: 93.69     // LP: conversion rate to $PAWSY
+  /*
+  A note on how the latter is calculated (data from 2025-01-02):
+  The DAO holds 2,588,373.323481637327232127 UNI-V2.
+    https://basescan.org/token/0x96FC64caE162C1Cb288791280c3Eff2255c330a8?a=0xc638fb83d2bad5dd73d4c7c7dec0445d46a0716f
+  That is the equivalent of 63,591.57 deposited $VIRTUAL and 110.95M deposited $PAWSY.
+  Since these amounts are equal in value, we consider it equivalent to 2 * 110.95 = 221.9M $PAWSY.
+  But if you run getActiveStakedBalance on an address that staked LP, it would only show the value in UNI-V2 + PAWSY + mPAWSY staked.
+    https://basescan.org/address/0xA6FaCD417faf801107bF19F4a24062Ff15AE9C61#readContract
+  If you run getUserLocks with 0xCfdc7f77c37268c14293ebD466768F6068D99461 for example, you get more details. See the UNI-V2 lock as a type 2:
+    [1,36995265620000000000000,4320000,1739287569,0,2,true]]
+  So basically, just doing getActiveStakedBalance for all the stakers and adding it won't provide real staked value in the equivalent of $PAWSY.
+  To get that, for locks type 2 you have to multiply by (221.9M / 2,588,373.323481637327232127) = 85.73 (as of 2025-01-02).
+  Whenever I run the script, I have to recalculate this. On 2024-12-23, the ratio was 93.69
+  */
 };
 
 // Helper function to add delay between requests
