@@ -1,0 +1,2011 @@
+{
+  "timestamp": "2025-02-15T10-53-43-869Z",
+  "totalStaked": "165151124.405374114663448623",
+  "totalAdjustedStaked": "187046810.53",
+  "stakers": [
+    {
+      "address": "0x8ddddee7f16036a2bfbc392d6b1b2a67d1d06500",
+      "rawHoldings": "18344746.750592140237861953",
+      "rawPerMill": "111.0785",
+      "adjustedTotal": "20179221.43",
+      "adjustedPerMill": "107.8833",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "18344746.750592140237861953",
+          "adjusted": "20179221.43",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x8b83093a2a1ac30b074e3eab79bfd248a4ad8166",
+      "rawHoldings": "14173178.696794171357390908",
+      "rawPerMill": "85.8195",
+      "adjustedTotal": "15590496.57",
+      "adjustedPerMill": "83.3508",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "14173178.696794171357390908",
+          "adjusted": "15590496.57",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xdd7ac275f3cbd710f112db75d91003bd3b1dc2e7",
+      "rawHoldings": "12183270.267862344152056964",
+      "rawPerMill": "73.7704",
+      "adjustedTotal": "12183270.27",
+      "adjustedPerMill": "65.1349",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "12183270.267862344152056964",
+          "adjusted": "12183270.27",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x549630b99e303e6164d03ecf96718c8e7e4fa4ba",
+      "rawHoldings": "10107842.462426325151644517",
+      "rawPerMill": "61.2036",
+      "adjustedTotal": "10670852.06",
+      "adjustedPerMill": "57.0491",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "4477746.476149333140428275",
+          "adjusted": "4477746.48",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "5630095.986276992011216242",
+          "adjusted": "6193105.58",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x22f9e33d852e42d44c43ea704a4966766f02b5d3",
+      "rawHoldings": "9973484.082686297556347241",
+      "rawPerMill": "60.3900",
+      "adjustedTotal": "10970832.49",
+      "adjustedPerMill": "58.6529",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "9973484.082686297556347241",
+          "adjusted": "10970832.49",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x5b8edf4eec1a29b14e41dbc63b261f4d674809a3",
+      "rawHoldings": "8020020.694359049771291561",
+      "rawPerMill": "48.5617",
+      "adjustedTotal": "9852519.21",
+      "adjustedPerMill": "52.6741",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "2000000.0",
+          "adjusted": "2000000.00",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "6006730.960585016533811849",
+          "adjusted": "6607404.06",
+          "modifier": 1.1
+        },
+        "2 (LP $PAWSY/$VIRTUAL)": {
+          "raw": "13289.733774033237479712",
+          "adjusted": "1245115.16",
+          "modifier": 93.69
+        }
+      }
+    },
+    {
+      "address": "0x89d1d20ae09a3289be7a3a9fcfad62b0dd0c71cc",
+      "rawHoldings": "6045803.036298988970114628",
+      "rawPerMill": "36.6077",
+      "adjustedTotal": "6550383.34",
+      "adjustedPerMill": "35.0200",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "1000000.0",
+          "adjusted": "1000000.00",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "5045803.036298988970114628",
+          "adjusted": "5550383.34",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x48d18a882b0be145606a11fce6f8a301256b93fa",
+      "rawHoldings": "5581248.996363526796079065",
+      "rawPerMill": "33.7948",
+      "adjustedTotal": "6087632.12",
+      "adjustedPerMill": "32.5460",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "517417.785566305066449686",
+          "adjusted": "517417.79",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "5063831.210797221729629379",
+          "adjusted": "5570214.33",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x3150e83b52d72c2ea5cc49632dd50f6a79ba082a",
+      "rawHoldings": "5500000.0",
+      "rawPerMill": "33.3028",
+      "adjustedTotal": "5500000.00",
+      "adjustedPerMill": "29.4044",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "5500000.0",
+          "adjusted": "5500000.00",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x5b90d50f8792bc2c4e6cb772de3a713f9ebcc17d",
+      "rawHoldings": "5038180.408997315806809112",
+      "rawPerMill": "30.5065",
+      "adjustedTotal": "5541998.45",
+      "adjustedPerMill": "29.6289",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "5038180.408997315806809112",
+          "adjusted": "5541998.45",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x41b7fdb1d72a92372e6fc4cb140d1dba491f1eb8",
+      "rawHoldings": "5000000.0",
+      "rawPerMill": "30.2753",
+      "adjustedTotal": "5500000.00",
+      "adjustedPerMill": "29.4044",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "5000000.0",
+          "adjusted": "5500000.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xcdfa10030966bdb31cbcb3797cfcaacca6175070",
+      "rawHoldings": "3671443.870364296305351553",
+      "rawPerMill": "22.2308",
+      "adjustedTotal": "3987581.86",
+      "adjustedPerMill": "21.3186",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "510063.959737047893629521",
+          "adjusted": "510063.96",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "3161379.910627248411722032",
+          "adjusted": "3477517.90",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x05b8577d23e5f7a4bfc4539dba7087d46154f7b5",
+      "rawHoldings": "3231860.126114966416826173",
+      "rawPerMill": "19.5691",
+      "adjustedTotal": "4355570.14",
+      "adjustedPerMill": "23.2860",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "783701.671091388253731481",
+          "adjusted": "783701.67",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "2438666.13221759062213027",
+          "adjusted": "2682532.75",
+          "modifier": 1.1
+        },
+        "2 (LP $PAWSY/$VIRTUAL)": {
+          "raw": "9492.322805987540964422",
+          "adjusted": "889335.72",
+          "modifier": 93.69
+        }
+      }
+    },
+    {
+      "address": "0x6ded2d0679ed51798ff585e9d1da2b4d049bad5b",
+      "rawHoldings": "3000000.0",
+      "rawPerMill": "18.1652",
+      "adjustedTotal": "3200000.00",
+      "adjustedPerMill": "17.1080",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "1000000.0",
+          "adjusted": "1000000.00",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "2000000.0",
+          "adjusted": "2200000.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x4c27033984b9cc77a9877d0cbe27d2c029f06f38",
+      "rawHoldings": "2843799.865219048158424419",
+      "rawPerMill": "17.2194",
+      "adjustedTotal": "3128179.85",
+      "adjustedPerMill": "16.7240",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "2843799.865219048158424419",
+          "adjusted": "3128179.85",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x81e9904b0a046756e1a882b1b9b796edcb026a53",
+      "rawHoldings": "2334302.384775397102944209",
+      "rawPerMill": "14.1343",
+      "adjustedTotal": "2567732.62",
+      "adjustedPerMill": "13.7278",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "2334302.384775397102944209",
+          "adjusted": "2567732.62",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x8098bd1c885066c0b044365d1758eda8087bf6e3",
+      "rawHoldings": "1870446.566289211237850933",
+      "rawPerMill": "11.3257",
+      "adjustedTotal": "2057491.22",
+      "adjustedPerMill": "10.9999",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "1870446.566289211237850933",
+          "adjusted": "2057491.22",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x0b4595d33bcb6fc4204ee963f9b10c7aade68426",
+      "rawHoldings": "1820411.526699778170029818",
+      "rawPerMill": "11.0227",
+      "adjustedTotal": "3101461.68",
+      "adjustedPerMill": "16.5812",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "1808541.897170923960183849",
+          "adjusted": "1989396.09",
+          "modifier": 1.1
+        },
+        "2 (LP $PAWSY/$VIRTUAL)": {
+          "raw": "11869.629528854209845969",
+          "adjusted": "1112065.59",
+          "modifier": 93.69
+        }
+      }
+    },
+    {
+      "address": "0x7640e4c633278e724ab6dee8860614a4c8cd0680",
+      "rawHoldings": "1813054.935823480143493713",
+      "rawPerMill": "10.9782",
+      "adjustedTotal": "1963054.94",
+      "adjustedPerMill": "10.4950",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "313054.935823480143493713",
+          "adjusted": "313054.94",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "1500000.0",
+          "adjusted": "1650000.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x6d3c60810c713d1eaca221bcaab3e17bd4702d69",
+      "rawHoldings": "1733950.934642888453310711",
+      "rawPerMill": "10.4992",
+      "adjustedTotal": "1907346.03",
+      "adjustedPerMill": "10.1972",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "1733950.934642888453310711",
+          "adjusted": "1907346.03",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x9b615270e7071a01dcae1f6eea6598a319be8466",
+      "rawHoldings": "1648630.92574020201917727",
+      "rawPerMill": "9.9826",
+      "adjustedTotal": "1648630.93",
+      "adjustedPerMill": "8.8140",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "1648630.92574020201917727",
+          "adjusted": "1648630.93",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xe0c96c36920ea6a0af38e07cbdb102a3d9165355",
+      "rawHoldings": "1531793.573015754234299148",
+      "rawPerMill": "9.2751",
+      "adjustedTotal": "1684972.93",
+      "adjustedPerMill": "9.0083",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "1531793.573015754234299148",
+          "adjusted": "1684972.93",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x4ce9473777a78519cf408351e2e0bdbc7fc46c45",
+      "rawHoldings": "1529847.223461273740085557",
+      "rawPerMill": "9.2633",
+      "adjustedTotal": "5108661.95",
+      "adjustedPerMill": "27.3122",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "1492847.223461273740085557",
+          "adjusted": "1642131.95",
+          "modifier": 1.1
+        },
+        "2 (LP $PAWSY/$VIRTUAL)": {
+          "raw": "37000.0",
+          "adjusted": "3466530.00",
+          "modifier": 93.69
+        }
+      }
+    },
+    {
+      "address": "0xd3086d9cc2c8766b62d22cce4b24c550bd50de2e",
+      "rawHoldings": "1321041.669365060141064154",
+      "rawPerMill": "7.9990",
+      "adjustedTotal": "1321041.67",
+      "adjustedPerMill": "7.0626",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "1321041.669365060141064154",
+          "adjusted": "1321041.67",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x69663e693f72f3369d82854d185fca133e053dd2",
+      "rawHoldings": "1254274.088403729014410295",
+      "rawPerMill": "7.5947",
+      "adjustedTotal": "1379701.50",
+      "adjustedPerMill": "7.3762",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "1254274.088403729014410295",
+          "adjusted": "1379701.50",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x326cd08301da7484405c8a46a272e21e8c5a60a5",
+      "rawHoldings": "1243334.965024513193526926",
+      "rawPerMill": "7.5285",
+      "adjustedTotal": "1357668.46",
+      "adjustedPerMill": "7.2584",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "100000.0",
+          "adjusted": "100000.00",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "1143334.965024513193526926",
+          "adjusted": "1257668.46",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x0cfa50de1111b5fde6553f6702c6959b34502155",
+      "rawHoldings": "1221183.0",
+      "rawPerMill": "7.3943",
+      "adjustedTotal": "1343301.30",
+      "adjustedPerMill": "7.1816",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "1221183.0",
+          "adjusted": "1343301.30",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x87f11ba2f9fe27701904d71fac6cb28c5756dba4",
+      "rawHoldings": "1175688.107591890057868055",
+      "rawPerMill": "7.1189",
+      "adjustedTotal": "1293256.92",
+      "adjustedPerMill": "6.9141",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "1175688.107591890057868055",
+          "adjusted": "1293256.92",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x2a8501c9659077fd2fe8dc1543971d3cbbc9805c",
+      "rawHoldings": "1118896.0",
+      "rawPerMill": "6.7750",
+      "adjustedTotal": "1230785.60",
+      "adjustedPerMill": "6.5801",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "1118896.0",
+          "adjusted": "1230785.60",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x60caff444ddb0a5e9239dd7115ba3fce9db68cca",
+      "rawHoldings": "1060000.0",
+      "rawPerMill": "6.4184",
+      "adjustedTotal": "1111000.00",
+      "adjustedPerMill": "5.9397",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "550000.0",
+          "adjusted": "550000.00",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "510000.0",
+          "adjusted": "561000.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x5d7f4ecf96868fcdbdb767582ec3fb720d0cdd84",
+      "rawHoldings": "1036919.593144135111945521",
+      "rawPerMill": "6.2786",
+      "adjustedTotal": "1036919.59",
+      "adjustedPerMill": "5.5436",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "1036919.593144135111945521",
+          "adjusted": "1036919.59",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x697bf614f7d9d90e67482448d221ee9d49b7ba29",
+      "rawHoldings": "1029314.451868398750696764",
+      "rawPerMill": "6.2326",
+      "adjustedTotal": "1029314.45",
+      "adjustedPerMill": "5.5030",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "1029314.451868398750696764",
+          "adjusted": "1029314.45",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x1f2b3cb9b175334e3c0d6607c8105d9f75cbe31c",
+      "rawHoldings": "1000494.47663695080593296",
+      "rawPerMill": "6.0581",
+      "adjustedTotal": "1000494.48",
+      "adjustedPerMill": "5.3489",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "1000494.47663695080593296",
+          "adjusted": "1000494.48",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x9d4997b64ab37fda59e37ba7d0ba3260e9179a05",
+      "rawHoldings": "924505.589977025817329948",
+      "rawPerMill": "5.5979",
+      "adjustedTotal": "966887.25",
+      "adjustedPerMill": "5.1692",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "500688.9663997767293182",
+          "adjusted": "500688.97",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "423816.623577249088011748",
+          "adjusted": "466198.29",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x5672e9713e3fe3a79b07bad46e7fb61372999458",
+      "rawHoldings": "825879.658328729662307968",
+      "rawPerMill": "5.0008",
+      "adjustedTotal": "858467.62",
+      "adjustedPerMill": "4.5896",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "500000.0",
+          "adjusted": "500000.00",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "325879.658328729662307968",
+          "adjusted": "358467.62",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x16aa3ce4f543f7d22b3ca3055837bb71f17c5ded",
+      "rawHoldings": "803669.380121734058812928",
+      "rawPerMill": "4.8663",
+      "adjustedTotal": "818669.38",
+      "adjustedPerMill": "4.3768",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "653669.380121734058812928",
+          "adjusted": "653669.38",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "150000.0",
+          "adjusted": "165000.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x50f54fc1cb76edfd8a5897e2bc8532f8ba26c6e4",
+      "rawHoldings": "788048.0",
+      "rawPerMill": "4.7717",
+      "adjustedTotal": "788048.00",
+      "adjustedPerMill": "4.2131",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "788048.0",
+          "adjusted": "788048.00",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xb5e2103c43c6d2228ca6ba5dc212c34752925852",
+      "rawHoldings": "770748.067483106017201998",
+      "rawPerMill": "4.6669",
+      "adjustedTotal": "847822.87",
+      "adjustedPerMill": "4.5327",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "770748.067483106017201998",
+          "adjusted": "847822.87",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x7bf2426c652db59ef7f1bb31f5da118c2d3db172",
+      "rawHoldings": "731967.0",
+      "rawPerMill": "4.4321",
+      "adjustedTotal": "848353.23",
+      "adjustedPerMill": "4.5355",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "500.0",
+          "adjusted": "500.00",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "731000.0",
+          "adjusted": "804100.00",
+          "modifier": 1.1
+        },
+        "2 (LP $PAWSY/$VIRTUAL)": {
+          "raw": "467.0",
+          "adjusted": "43753.23",
+          "modifier": 93.69
+        }
+      }
+    },
+    {
+      "address": "0x5f6bdca4f573ff1713d8a7726f8e3f0539c099fa",
+      "rawHoldings": "688957.607942552210124432",
+      "rawPerMill": "4.1717",
+      "adjustedTotal": "688957.61",
+      "adjustedPerMill": "3.6833",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "688957.607942552210124432",
+          "adjusted": "688957.61",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x7816d516a164bdccbea1a83b2cb7246c1376017c",
+      "rawHoldings": "684128.494867021686912858",
+      "rawPerMill": "4.1424",
+      "adjustedTotal": "722145.91",
+      "adjustedPerMill": "3.8608",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "303954.367424805261560837",
+          "adjusted": "303954.37",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "380174.127442216425352021",
+          "adjusted": "418191.54",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x823cae6c8d86ca814c568d0dc421231c126e5fc5",
+      "rawHoldings": "667626.870873756105264684",
+      "rawPerMill": "4.0425",
+      "adjustedTotal": "1017080.02",
+      "adjustedPerMill": "5.4376",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "664573.728444196395188082",
+          "adjusted": "731031.10",
+          "modifier": 1.1
+        },
+        "2 (LP $PAWSY/$VIRTUAL)": {
+          "raw": "3053.142429559710076602",
+          "adjusted": "286048.91",
+          "modifier": 93.69
+        }
+      }
+    },
+    {
+      "address": "0xbb672bbe37c259e7d22b250d6f1310161eefaece",
+      "rawHoldings": "650000.0",
+      "rawPerMill": "3.9358",
+      "adjustedTotal": "715000.00",
+      "adjustedPerMill": "3.8226",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "650000.0",
+          "adjusted": "715000.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xf9407f271f21df3e84408c1cffcd83fdb5847400",
+      "rawHoldings": "593892.927702303245109839",
+      "rawPerMill": "3.5961",
+      "adjustedTotal": "593892.93",
+      "adjustedPerMill": "3.1751",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "593892.927702303245109839",
+          "adjusted": "593892.93",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x22287c3e42f1b6f6765efb634ec0970483416b6c",
+      "rawHoldings": "578083.666963601348661284",
+      "rawPerMill": "3.5003",
+      "adjustedTotal": "578083.67",
+      "adjustedPerMill": "3.0906",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "578083.666963601348661284",
+          "adjusted": "578083.67",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x5e1051cb3e8d5cc9647036b30c85bb04adffe9e0",
+      "rawHoldings": "568844.108862227418213761",
+      "rawPerMill": "3.4444",
+      "adjustedTotal": "568844.11",
+      "adjustedPerMill": "3.0412",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "568844.108862227418213761",
+          "adjusted": "568844.11",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x0ec990ab850e671165079b55fdb394f0291d6435",
+      "rawHoldings": "561886.035402557768595454",
+      "rawPerMill": "3.4023",
+      "adjustedTotal": "618074.64",
+      "adjustedPerMill": "3.3044",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "561886.035402557768595454",
+          "adjusted": "618074.64",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x2c6312a68d9dbd32288247d33196fad4e7bbd56e",
+      "rawHoldings": "557232.225479283857955593",
+      "rawPerMill": "3.3741",
+      "adjustedTotal": "557232.23",
+      "adjustedPerMill": "2.9791",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "557232.225479283857955593",
+          "adjusted": "557232.23",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xf6c67eb8ecb3166c2e9714a73fee790a93b3a86f",
+      "rawHoldings": "549523.404997049210520012",
+      "rawPerMill": "3.3274",
+      "adjustedTotal": "550023.40",
+      "adjustedPerMill": "2.9406",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "544523.404997049210520012",
+          "adjusted": "544523.40",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "5000.0",
+          "adjusted": "5500.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xd472b3f3d5c28966a395835e28ad2fb22c8ca777",
+      "rawHoldings": "543732.951332861270142777",
+      "rawPerMill": "3.2923",
+      "adjustedTotal": "543732.95",
+      "adjustedPerMill": "2.9069",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "543732.951332861270142777",
+          "adjusted": "543732.95",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x50eacfb400a26e08ad6c03d23ee3b4dba1c86125",
+      "rawHoldings": "538632.279008510175096783",
+      "rawPerMill": "3.2615",
+      "adjustedTotal": "539330.78",
+      "adjustedPerMill": "2.8834",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "531647.279008510175096783",
+          "adjusted": "531647.28",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "6985.0",
+          "adjusted": "7683.50",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xf7bd1cacde3209513edd15e9f647a2e83462a4d5",
+      "rawHoldings": "527264.055740679820268618",
+      "rawPerMill": "3.1926",
+      "adjustedTotal": "579990.46",
+      "adjustedPerMill": "3.1008",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "527264.055740679820268618",
+          "adjusted": "579990.46",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x1005fdae76e9a9cc53901d5ff42c1b6a5f267800",
+      "rawHoldings": "526841.938855984475374581",
+      "rawPerMill": "3.1901",
+      "adjustedTotal": "526841.94",
+      "adjustedPerMill": "2.8166",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "526841.938855984475374581",
+          "adjusted": "526841.94",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x93ec04e3eb9a0a70844c9053bccf26809055faa2",
+      "rawHoldings": "510324.906909153402392966",
+      "rawPerMill": "3.0900",
+      "adjustedTotal": "561357.40",
+      "adjustedPerMill": "3.0012",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "510324.906909153402392966",
+          "adjusted": "561357.40",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x6bb9b243c0df3db7baa0643f6b1e8b271722e822",
+      "rawHoldings": "504764.580315701446118869",
+      "rawPerMill": "3.0564",
+      "adjustedTotal": "512815.67",
+      "adjustedPerMill": "2.7416",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "424253.668741368918866524",
+          "adjusted": "424253.67",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "80510.911574332527252345",
+          "adjusted": "88562.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x62f9f31c06a61adc4d1df714d48859fb3004de4c",
+      "rawHoldings": "502546.762598184712767012",
+      "rawPerMill": "3.0430",
+      "adjustedTotal": "502546.76",
+      "adjustedPerMill": "2.6867",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "502546.762598184712767012",
+          "adjusted": "502546.76",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xa9e7a500c67b559d77f1625eadccc5f31b0f1829",
+      "rawHoldings": "502371.805184396927893898",
+      "rawPerMill": "3.0419",
+      "adjustedTotal": "552608.99",
+      "adjustedPerMill": "2.9544",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "502371.805184396927893898",
+          "adjusted": "552608.99",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x1f0764549ef34665645a15943d7374bb38473c7f",
+      "rawHoldings": "500617.48469744686855135",
+      "rawPerMill": "3.0313",
+      "adjustedTotal": "500617.48",
+      "adjustedPerMill": "2.6764",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "500617.48469744686855135",
+          "adjusted": "500617.48",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x8c7ee7058109c62302a2c844e7ff5d58f16f817e",
+      "rawHoldings": "500010.0",
+      "rawPerMill": "3.0276",
+      "adjustedTotal": "500010.00",
+      "adjustedPerMill": "2.6732",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "500010.0",
+          "adjusted": "500010.00",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xc8e261521407201df9bf646be32372bd9125fc8b",
+      "rawHoldings": "500005.284473490088765155",
+      "rawPerMill": "3.0276",
+      "adjustedTotal": "550005.81",
+      "adjustedPerMill": "2.9405",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "500005.284473490088765155",
+          "adjusted": "550005.81",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x64a0dbfa762eeb257503c0ce1a63dd0db2fbe8e6",
+      "rawHoldings": "500001.0",
+      "rawPerMill": "3.0275",
+      "adjustedTotal": "500001.00",
+      "adjustedPerMill": "2.6731",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "500001.0",
+          "adjusted": "500001.00",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x5e027fcbc505446c3c2e659454e50d27adaaf7b5",
+      "rawHoldings": "500000.0",
+      "rawPerMill": "3.0275",
+      "adjustedTotal": "550000.00",
+      "adjustedPerMill": "2.9404",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "500000.0",
+          "adjusted": "550000.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x8eec49c06322ad8181ca3bbab3899507977bb9d8",
+      "rawHoldings": "500000.0",
+      "rawPerMill": "3.0275",
+      "adjustedTotal": "500000.00",
+      "adjustedPerMill": "2.6731",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "500000.0",
+          "adjusted": "500000.00",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x90b38afd3faeb5457c699d9b5f7c60c0dd210f68",
+      "rawHoldings": "500000.0",
+      "rawPerMill": "3.0275",
+      "adjustedTotal": "500000.00",
+      "adjustedPerMill": "2.6731",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "500000.0",
+          "adjusted": "500000.00",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x7a8e879607494bb3472c1d1afef23179a266fa39",
+      "rawHoldings": "500000.0",
+      "rawPerMill": "3.0275",
+      "adjustedTotal": "500000.00",
+      "adjustedPerMill": "2.6731",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "500000.0",
+          "adjusted": "500000.00",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xc9df3bdb24868a891a6b879ada6ae1ab215bd509",
+      "rawHoldings": "500000.0",
+      "rawPerMill": "3.0275",
+      "adjustedTotal": "550000.00",
+      "adjustedPerMill": "2.9404",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "500000.0",
+          "adjusted": "550000.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x0221c3cdb3dc4ffddb0564227d205b7f0cbac1cf",
+      "rawHoldings": "500000.0",
+      "rawPerMill": "3.0275",
+      "adjustedTotal": "550000.00",
+      "adjustedPerMill": "2.9404",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "500000.0",
+          "adjusted": "550000.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x112dd6955d5f742eb0f844f97b146d77625793b3",
+      "rawHoldings": "500000.0",
+      "rawPerMill": "3.0275",
+      "adjustedTotal": "500000.00",
+      "adjustedPerMill": "2.6731",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "500000.0",
+          "adjusted": "500000.00",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xd980de8236222c5e08fd2ce893eb4d9809e13604",
+      "rawHoldings": "449898.195525709578862873",
+      "rawPerMill": "2.7242",
+      "adjustedTotal": "449898.20",
+      "adjustedPerMill": "2.4053",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "449898.195525709578862873",
+          "adjusted": "449898.20",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xe18d1ea65e89c9ecd31bc8691e33785c90dec0ff",
+      "rawHoldings": "408279.762802286548148626",
+      "rawPerMill": "2.4722",
+      "adjustedTotal": "408279.76",
+      "adjustedPerMill": "2.1828",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "408279.762802286548148626",
+          "adjusted": "408279.76",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xba55bdbf959df826da6c35487eb15fad2164662d",
+      "rawHoldings": "386918.521481498769827434",
+      "rawPerMill": "2.3428",
+      "adjustedTotal": "425610.37",
+      "adjustedPerMill": "2.2754",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "386918.521481498769827434",
+          "adjusted": "425610.37",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x068cfd47ae3e4a96c74b255e02939749434aafba",
+      "rawHoldings": "385102.0",
+      "rawPerMill": "2.3318",
+      "adjustedTotal": "412421.70",
+      "adjustedPerMill": "2.2049",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "111905.0",
+          "adjusted": "111905.00",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "273197.0",
+          "adjusted": "300516.70",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xa2cce054e749a5022ed5304da713c4da624ef1cd",
+      "rawHoldings": "281744.460931035268904006",
+      "rawPerMill": "1.7060",
+      "adjustedTotal": "309918.91",
+      "adjustedPerMill": "1.6569",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "281744.460931035268904006",
+          "adjusted": "309918.91",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x1d9c8089da010d8a8a12a120ccd4c62f05397e3e",
+      "rawHoldings": "270353.572052790282719708",
+      "rawPerMill": "1.6370",
+      "adjustedTotal": "297388.93",
+      "adjustedPerMill": "1.5899",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "270353.572052790282719708",
+          "adjusted": "297388.93",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x2902c3cd8bbf2ac9f769a44161c4e1c87eb2d9ca",
+      "rawHoldings": "262548.750489432681532193",
+      "rawPerMill": "1.5897",
+      "adjustedTotal": "287766.40",
+      "adjustedPerMill": "1.5385",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "10372.25603132726233854",
+          "adjusted": "10372.26",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "252176.494458105419193653",
+          "adjusted": "277394.14",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x3b35b6b7be7ceb583e08319bedd3d033d71ff4d5",
+      "rawHoldings": "235457.387275665078102655",
+      "rawPerMill": "1.4257",
+      "adjustedTotal": "237500.59",
+      "adjustedPerMill": "1.2697",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "215025.395374376126749227",
+          "adjusted": "215025.40",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "20431.991901288951353428",
+          "adjusted": "22475.19",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xbda6faa7ee7bd53c3740377459626453540e78d5",
+      "rawHoldings": "221884.784641294637919418",
+      "rawPerMill": "1.3435",
+      "adjustedTotal": "244073.26",
+      "adjustedPerMill": "1.3049",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "221884.784641294637919418",
+          "adjusted": "244073.26",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xeb1a8bf5e62999345f069b3acd50630e94003f5c",
+      "rawHoldings": "220000.0",
+      "rawPerMill": "1.3321",
+      "adjustedTotal": "220000.00",
+      "adjustedPerMill": "1.1762",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "220000.0",
+          "adjusted": "220000.00",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x49043655661a43f3086195d291e3875108f3f10c",
+      "rawHoldings": "206009.466938296398482395",
+      "rawPerMill": "1.2474",
+      "adjustedTotal": "206009.47",
+      "adjustedPerMill": "1.1014",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "206009.466938296398482395",
+          "adjusted": "206009.47",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x6613e246e5491d16c06c6ee2e3c972d24ca451bb",
+      "rawHoldings": "172441.884130821816567933",
+      "rawPerMill": "1.0441",
+      "adjustedTotal": "189686.07",
+      "adjustedPerMill": "1.0141",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "172441.884130821816567933",
+          "adjusted": "189686.07",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x0c924814e96f2a10f25fd08d93be4a4e362ec0ff",
+      "rawHoldings": "168904.48607600139131933",
+      "rawPerMill": "1.0227",
+      "adjustedTotal": "168904.49",
+      "adjustedPerMill": "0.9030",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "168904.48607600139131933",
+          "adjusted": "168904.49",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xe131b735c6b906d32ce3a68031a957cbdf4fd9b6",
+      "rawHoldings": "159379.339482880558636437",
+      "rawPerMill": "0.9651",
+      "adjustedTotal": "159379.34",
+      "adjustedPerMill": "0.8521",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "159379.339482880558636437",
+          "adjusted": "159379.34",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xf73b6e67c8ec4e8f8f5960b63f152424563eeb12",
+      "rawHoldings": "154850.001009847124690041",
+      "rawPerMill": "0.9376",
+      "adjustedTotal": "170335.00",
+      "adjustedPerMill": "0.9107",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "154850.001009847124690041",
+          "adjusted": "170335.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xc98f8aa1a406fdefeec6c30e7d187171f75a2741",
+      "rawHoldings": "146051.444562955211334328",
+      "rawPerMill": "0.8844",
+      "adjustedTotal": "150554.64",
+      "adjustedPerMill": "0.8049",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "101019.485980463064502669",
+          "adjusted": "101019.49",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "45031.958582492146831659",
+          "adjusted": "49535.15",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x446ebb430fdaad43df92c6d7d0c2631748ec30e3",
+      "rawHoldings": "138074.0",
+      "rawPerMill": "0.8360",
+      "adjustedTotal": "138074.00",
+      "adjustedPerMill": "0.7382",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "138074.0",
+          "adjusted": "138074.00",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x7d08d632dc258ef5f43bfcf2ec64136de72548cf",
+      "rawHoldings": "121073.885753793243849522",
+      "rawPerMill": "0.7331",
+      "adjustedTotal": "133181.27",
+      "adjustedPerMill": "0.7120",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "121073.885753793243849522",
+          "adjusted": "133181.27",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xc3bfe7e19a5335ee967dde995c8fb25e7191fed0",
+      "rawHoldings": "118234.002467607055197428",
+      "rawPerMill": "0.7159",
+      "adjustedTotal": "118234.00",
+      "adjustedPerMill": "0.6321",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "118234.002467607055197428",
+          "adjusted": "118234.00",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xd6195855690d16ff8abd7f391498c1edc1c0fa4b",
+      "rawHoldings": "101411.509822654261576394",
+      "rawPerMill": "0.6141",
+      "adjustedTotal": "111552.66",
+      "adjustedPerMill": "0.5964",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "101411.509822654261576394",
+          "adjusted": "111552.66",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xe9a9c837b8918efa22f6e801ae8fd867ce247126",
+      "rawHoldings": "100662.453116612558737435",
+      "rawPerMill": "0.6095",
+      "adjustedTotal": "110728.70",
+      "adjustedPerMill": "0.5920",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "100662.453116612558737435",
+          "adjusted": "110728.70",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xdfba8ece6eb8e48efa0932ac7727a091d79cfe22",
+      "rawHoldings": "100000.0",
+      "rawPerMill": "0.6055",
+      "adjustedTotal": "110000.00",
+      "adjustedPerMill": "0.5881",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "100000.0",
+          "adjusted": "110000.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x23ed9caa1bd3799280c05d581ae829979b1add6d",
+      "rawHoldings": "94994.872937928110924141",
+      "rawPerMill": "0.5752",
+      "adjustedTotal": "94994.87",
+      "adjustedPerMill": "0.5079",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "94994.872937928110924141",
+          "adjusted": "94994.87",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x8f591b4a83a008988bf07554feb36660f1d3e354",
+      "rawHoldings": "87499.176501321234746759",
+      "rawPerMill": "0.5298",
+      "adjustedTotal": "92502.08",
+      "adjustedPerMill": "0.4945",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "37470.176501321234746759",
+          "adjusted": "37470.18",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "50029.0",
+          "adjusted": "55031.90",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xa49154981089459677116f5770cd3b3dc55ec4a6",
+      "rawHoldings": "87457.359668611150548039",
+      "rawPerMill": "0.5296",
+      "adjustedTotal": "87457.36",
+      "adjustedPerMill": "0.4676",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "87457.359668611150548039",
+          "adjusted": "87457.36",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xd1e36945e72dbc64b4072e61c6831622aea606cc",
+      "rawHoldings": "85000.0",
+      "rawPerMill": "0.5147",
+      "adjustedTotal": "93500.00",
+      "adjustedPerMill": "0.4999",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "85000.0",
+          "adjusted": "93500.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x3e2e57d5b1c3454a200802f5f9d32b0bfde36aa5",
+      "rawHoldings": "73078.892101969675555649",
+      "rawPerMill": "0.4425",
+      "adjustedTotal": "73078.89",
+      "adjustedPerMill": "0.3907",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "73078.892101969675555649",
+          "adjusted": "73078.89",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x88244475fbda5a3dc68e505689f5d2caeed1fc91",
+      "rawHoldings": "70965.0",
+      "rawPerMill": "0.4297",
+      "adjustedTotal": "78061.50",
+      "adjustedPerMill": "0.4173",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "70965.0",
+          "adjusted": "78061.50",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x8a9578fa415cbd70bb45d9fc03df4f1419be118a",
+      "rawHoldings": "55487.212122793104176917",
+      "rawPerMill": "0.3360",
+      "adjustedTotal": "55487.21",
+      "adjustedPerMill": "0.2966",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "55487.212122793104176917",
+          "adjusted": "55487.21",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x05c83d10a40ed8495ba0d088d2fc3292a7611381",
+      "rawHoldings": "55109.879662560532337901",
+      "rawPerMill": "0.3337",
+      "adjustedTotal": "60620.87",
+      "adjustedPerMill": "0.3241",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "55109.879662560532337901",
+          "adjusted": "60620.87",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xb7e6db33798fd50387b0d659c7c20188507e066b",
+      "rawHoldings": "54937.910195203065032461",
+      "rawPerMill": "0.3327",
+      "adjustedTotal": "60431.70",
+      "adjustedPerMill": "0.3231",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "54937.910195203065032461",
+          "adjusted": "60431.70",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xa9e7a37ef071bdc46d0d21db3d8105046cef5a0e",
+      "rawHoldings": "54258.283581058453049251",
+      "rawPerMill": "0.3285",
+      "adjustedTotal": "59684.11",
+      "adjustedPerMill": "0.3191",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "54258.283581058453049251",
+          "adjusted": "59684.11",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x7dec7d0bb9f27988c005b0fe6e9fd88b22250f08",
+      "rawHoldings": "53507.192317898947553146",
+      "rawPerMill": "0.3240",
+      "adjustedTotal": "58857.91",
+      "adjustedPerMill": "0.3147",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "53507.192317898947553146",
+          "adjusted": "58857.91",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x823e8f3d0a8cfe1dcae59b251d12f1c7a638e069",
+      "rawHoldings": "53308.393635969799199521",
+      "rawPerMill": "0.3228",
+      "adjustedTotal": "53308.39",
+      "adjustedPerMill": "0.2850",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "53308.393635969799199521",
+          "adjusted": "53308.39",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xdee696f8b80fdde66809044c80a34147ea2a0f30",
+      "rawHoldings": "52765.66768322565328525",
+      "rawPerMill": "0.3195",
+      "adjustedTotal": "52765.67",
+      "adjustedPerMill": "0.2821",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "52765.66768322565328525",
+          "adjusted": "52765.67",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xc673c1f5ed5bfed07c9567bee17ed15d2517ad3b",
+      "rawHoldings": "51021.81538195935052101",
+      "rawPerMill": "0.3089",
+      "adjustedTotal": "54124.00",
+      "adjustedPerMill": "0.2894",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "20000.0",
+          "adjusted": "20000.00",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "31021.81538195935052101",
+          "adjusted": "34124.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xcfdc7f77c37268c14293ebd466768f6068d99461",
+      "rawHoldings": "36995.26562",
+      "rawPerMill": "0.2240",
+      "adjustedTotal": "3466086.44",
+      "adjustedPerMill": "18.5306",
+      "poolStakes": {
+        "2 (LP $PAWSY/$VIRTUAL)": {
+          "raw": "36995.26562",
+          "adjusted": "3466086.44",
+          "modifier": 93.69
+        }
+      }
+    },
+    {
+      "address": "0x1f286b90a06b5c27365149aae8b7b231abdb7323",
+      "rawHoldings": "30585.662314735610843172",
+      "rawPerMill": "0.1852",
+      "adjustedTotal": "32987.28",
+      "adjustedPerMill": "0.1764",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "6569.522790961542916405",
+          "adjusted": "6569.52",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "24016.139523774067926767",
+          "adjusted": "26417.75",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x0c05c2cc2e101e8a30aa048422560d4426b11d89",
+      "rawHoldings": "24779.091344724985542658",
+      "rawPerMill": "0.1500",
+      "adjustedTotal": "24779.09",
+      "adjustedPerMill": "0.1325",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "24779.091344724985542658",
+          "adjusted": "24779.09",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xb6596206976fd41519cb93aa82aa4eeaf0c9923d",
+      "rawHoldings": "22401.274219451584566439",
+      "rawPerMill": "0.1356",
+      "adjustedTotal": "22401.27",
+      "adjustedPerMill": "0.1198",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "22401.274219451584566439",
+          "adjusted": "22401.27",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x0a69d43bf895e61218a2437d58946b7e61294d34",
+      "rawHoldings": "21396.842563633054785259",
+      "rawPerMill": "0.1296",
+      "adjustedTotal": "23536.53",
+      "adjustedPerMill": "0.1258",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "21396.842563633054785259",
+          "adjusted": "23536.53",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xc085e9460b2d824be3753766e256193e7b5b8391",
+      "rawHoldings": "20633.793411067709586991",
+      "rawPerMill": "0.1249",
+      "adjustedTotal": "22697.17",
+      "adjustedPerMill": "0.1213",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "20633.793411067709586991",
+          "adjusted": "22697.17",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x2e00102667e3638c8e6f6414b3563630a5a21d9a",
+      "rawHoldings": "18388.487516133448543029",
+      "rawPerMill": "0.1113",
+      "adjustedTotal": "20227.34",
+      "adjustedPerMill": "0.1081",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "18388.487516133448543029",
+          "adjusted": "20227.34",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xd82ca7d209d099b2ed8fca7efb15d7d8a1542597",
+      "rawHoldings": "15708.067936100842291408",
+      "rawPerMill": "0.0951",
+      "adjustedTotal": "17278.87",
+      "adjustedPerMill": "0.0924",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "15708.067936100842291408",
+          "adjusted": "17278.87",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x610d80bda8b0bc323e7abee9cf24db15cad80649",
+      "rawHoldings": "15000.0",
+      "rawPerMill": "0.0908",
+      "adjustedTotal": "16500.00",
+      "adjustedPerMill": "0.0882",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "15000.0",
+          "adjusted": "16500.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x242f451fee53e5b69d6693192b02614a03b1fa2e",
+      "rawHoldings": "12740.0",
+      "rawPerMill": "0.0771",
+      "adjustedTotal": "14014.00",
+      "adjustedPerMill": "0.0749",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "12740.0",
+          "adjusted": "14014.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x26b85f4d04d469420d991576c633f2b4c17e5d66",
+      "rawHoldings": "12500.944719225467665938",
+      "rawPerMill": "0.0757",
+      "adjustedTotal": "13751.04",
+      "adjustedPerMill": "0.0735",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "12500.944719225467665938",
+          "adjusted": "13751.04",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x5f4743c98f8ef60109e5f1a69fe756f5150dedc6",
+      "rawHoldings": "10346.662557433992626257",
+      "rawPerMill": "0.0626",
+      "adjustedTotal": "37689.31",
+      "adjustedPerMill": "0.2015",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "10051.672330768063214707",
+          "adjusted": "10051.67",
+          "modifier": 1
+        },
+        "2 (LP $PAWSY/$VIRTUAL)": {
+          "raw": "294.99022666592941155",
+          "adjusted": "27637.63",
+          "modifier": 93.69
+        }
+      }
+    },
+    {
+      "address": "0x1fe00884412cfcb966571e2415aef4404ce15d85",
+      "rawHoldings": "10000.0",
+      "rawPerMill": "0.0606",
+      "adjustedTotal": "10000.00",
+      "adjustedPerMill": "0.0535",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "10000.0",
+          "adjusted": "10000.00",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x449bbfc85cb82e8f4258c1a4d29ba7df5a2c474f",
+      "rawHoldings": "10000.0",
+      "rawPerMill": "0.0606",
+      "adjustedTotal": "10500.00",
+      "adjustedPerMill": "0.0561",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "5000.0",
+          "adjusted": "5000.00",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "5000.0",
+          "adjusted": "5500.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x9497acf220733f6dabf5143f751904b575d3de3d",
+      "rawHoldings": "9993.139979671496985163",
+      "rawPerMill": "0.0605",
+      "adjustedTotal": "10992.45",
+      "adjustedPerMill": "0.0588",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "9993.139979671496985163",
+          "adjusted": "10992.45",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x45dafc5cd6ee135b7f95e2064c79bc8ee0784e31",
+      "rawHoldings": "7120.849217811046137236",
+      "rawPerMill": "0.0431",
+      "adjustedTotal": "7832.93",
+      "adjustedPerMill": "0.0419",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "7120.849217811046137236",
+          "adjusted": "7832.93",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xfb6afbbf340a7bacb3715fd30ab6c34077864dbe",
+      "rawHoldings": "7012.680406011068996587",
+      "rawPerMill": "0.0425",
+      "adjustedTotal": "7012.68",
+      "adjustedPerMill": "0.0375",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "7012.680406011068996587",
+          "adjusted": "7012.68",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xaa694df9ec9b4e430c386302d488963366354180",
+      "rawHoldings": "6382.628122472357091585",
+      "rawPerMill": "0.0386",
+      "adjustedTotal": "7020.89",
+      "adjustedPerMill": "0.0375",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "6382.628122472357091585",
+          "adjusted": "7020.89",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x1ef38922e7ff5ea0fc58761728953907355822a8",
+      "rawHoldings": "5500.0",
+      "rawPerMill": "0.0333",
+      "adjustedTotal": "5500.00",
+      "adjustedPerMill": "0.0294",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "5500.0",
+          "adjusted": "5500.00",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0x0c44f029d02e8d17d20441a0dd4e95fac381903b",
+      "rawHoldings": "5264.92314644191553455",
+      "rawPerMill": "0.0319",
+      "adjustedTotal": "5315.09",
+      "adjustedPerMill": "0.0284",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "4763.249033738930965954",
+          "adjusted": "4763.25",
+          "modifier": 1
+        },
+        "1 ($mPAWSY)": {
+          "raw": "501.674112702984568596",
+          "adjusted": "551.84",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xded36008adc00bae12531071b6cceda373759417",
+      "rawHoldings": "5000.31",
+      "rawPerMill": "0.0303",
+      "adjustedTotal": "5499.67",
+      "adjustedPerMill": "0.0294",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "4999.7",
+          "adjusted": "5499.67",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x424856fa4211ef3a0e5e49d46322471fb7d724d2",
+      "rawHoldings": "5000.0",
+      "rawPerMill": "0.0303",
+      "adjustedTotal": "5000.00",
+      "adjustedPerMill": "0.0267",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "5000.0",
+          "adjusted": "5000.00",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xc3ebe4e831953c2eb1db4035feeaa2452e12381b",
+      "rawHoldings": "5000.0",
+      "rawPerMill": "0.0303",
+      "adjustedTotal": "5500.00",
+      "adjustedPerMill": "0.0294",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "5000.0",
+          "adjusted": "5500.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x79ee8e5ff1cd9e15f9514b3a57179a84e4e6a213",
+      "rawHoldings": "5000.0",
+      "rawPerMill": "0.0303",
+      "adjustedTotal": "5500.00",
+      "adjustedPerMill": "0.0294",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "5000.0",
+          "adjusted": "5500.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0x6f86a3fce6abc264d61623e57c0b9805b218c3f4",
+      "rawHoldings": "5000.0",
+      "rawPerMill": "0.0303",
+      "adjustedTotal": "5500.00",
+      "adjustedPerMill": "0.0294",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "5000.0",
+          "adjusted": "5500.00",
+          "modifier": 1.1
+        }
+      }
+    },
+    {
+      "address": "0xd500826acb569339321111f33c230f457f03fab4",
+      "rawHoldings": "5000.0",
+      "rawPerMill": "0.0303",
+      "adjustedTotal": "5000.00",
+      "adjustedPerMill": "0.0267",
+      "poolStakes": {
+        "0 ($PAWSY)": {
+          "raw": "5000.0",
+          "adjusted": "5000.00",
+          "modifier": 1
+        }
+      }
+    },
+    {
+      "address": "0xcf33a5f2559e7901a2f3348300249c36607db743",
+      "rawHoldings": "5000.0",
+      "rawPerMill": "0.0303",
+      "adjustedTotal": "5500.00",
+      "adjustedPerMill": "0.0294",
+      "poolStakes": {
+        "1 ($mPAWSY)": {
+          "raw": "5000.0",
+          "adjusted": "5500.00",
+          "modifier": 1.1
+        }
+      }
+    }
+  ]
+}
